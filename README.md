@@ -1,4 +1,4 @@
-# Olá, sou o Gabriel Silva
+<!--# Olá, sou o Gabriel Silva
 
 ### Estudante de Engenharia Informática na Universidade Politécnica de Viseu
 
@@ -40,7 +40,7 @@ Projeto pessoal para análise de sentimentos sobre produtos, com base em feedbac
 
 
 ---
-
+-->
 # Hi, I'm Gabriel Silva
 
 ### Computer Engineering student of university of Polytechnic of Viseu
