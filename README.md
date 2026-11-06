@@ -28,7 +28,7 @@ Projeto académico em que treinei um modelo YOLOv11n para deteção de objetos e
 
 **Tecnologias:** YOLOv11n, Google Colab, Label Studio e CVAT · Set. 2025 – Jan. 2026 · [Mais informação](https://drive.google.com/drive/u/0/folders/10sbh9DVmbie4CBF4zL6Xx3P7h3b4eZL4)
 
-### SentFeel
+### [SentFeel](https://github.com/Gabriel0342/SentFeel)
 
 Projeto pessoal para análise de sentimentos sobre produtos, com base em feedback de utilizadores. O sistema identifica pontos fortes, fracos e oportunidades de melhoria, atribui uma pontuação de 0 a 20 e sugere estratégias.
 
